@@ -11727,7 +11727,6 @@ form button {
 .project-grid-item a {
   display: block;
   position: relative;
-  margin: auto;
 }
 .project-grid-item a img {
   width: 100%;
